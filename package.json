@@ -1,0 +1,16 @@
+{
+  "name": "wikipedia-crawler",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "crawl": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.5",
+    "htmlparser2": "^4.1.0",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}
